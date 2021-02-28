@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="200px" width="200px">  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vnaazleen&show_icons=true" /></p>
+
+
 ## Find me
 
 [<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:shaikvaseemnaazleen@gmail.com)
