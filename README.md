@@ -14,17 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Find me
 
-<p><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="300px" width="300px">  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=vnaazleen&show_icons=true" /></p>
-
-<p align="center">
-  
 [<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:shaikvaseemnaazleen@gmail.com)
 &nbsp; 
-  
-<a href="https://www.linkedin.com/in/vaseem-naazleen">
-  <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-&nbsp;
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sanjana-chakravarty/)
 
 </p>
