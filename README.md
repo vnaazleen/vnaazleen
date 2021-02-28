@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there 👋 I'm Vaseem Naazleen
 
 <!--
 **vnaazleen/vnaazleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vnaazleen&show_icons=true&theme=gradient)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnaazleen&layout=compact)](https://github.com/vnaazleen/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnaazleen&langs_count=8&layout=compacta&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=vnaazleen&show_icons=true&theme=gradient)
