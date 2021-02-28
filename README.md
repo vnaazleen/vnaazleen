@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<a href="https://github.com/vnaazleen">
-  <img alt="Naazleen's Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
+[<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:shaikvaseemnaazleen@gmail.com)
 &nbsp; 
   
 <a href="https://www.linkedin.com/in/vaseem-naazleen">
-  <img alt="Naazleen's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;
 
