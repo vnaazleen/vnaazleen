@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:shaikvaseemnaazleen@gmail.com)
 &nbsp; 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sanjana-chakravarty/)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vaseem-naazleen/)
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
