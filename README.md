@@ -1,10 +1,10 @@
 # Hey there! I'm Vaseem Naazleen  👋 
 
 - 🎓 I’m currently a pre-final year student, studying **Computer Science** at Vasireddy Venkatadri Institute of technology 
-- 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under Google and Talent sprint
-- 💡  I am passionate about problem-solving, exploring new technologies, and building cool projects
+- 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under **Google** and **Talent sprint**
+- 💡  I'm passionate about problem-solving, exploring new technologies, and building cool projects
 - 💻 I usually code in *Python*, *Java* and *C++*
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning *Angular*
 - 😄 Pronouns: She/Her
 
 <!--
