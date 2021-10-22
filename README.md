@@ -1,11 +1,11 @@
 # Hey there! I'm Vaseem Naazleen  👋 
 
-- 🎓 I’m currently a second year student, studying **CS** at Vasireddy Venkatadri Institute of technology 
-- <img src="https://pbs.twimg.com/profile_images/1093585928642162688/oVdX1KD-.jpg" alt="WTM" width="25" height="25"/>  I'm also a **Women Techmakers Engeering Fellow** under Google and Talent sprint
-- 💡  I love to explore new technologies and languages
+- 🎓 I’m currently a pre-final year student, studying **Computer Science** at Vasireddy Venkatadri Institute of technology 
+- 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under Google and Talent sprint
+- 💡  I am passionate about problem-solving, exploring new technologies, and building cool projects
 - 💻 I usually code in *Python*, *Java* and *C++*
-- 🔭 I’m currently working on improving my **DSA** skills
-
+- 🌱 I’m currently learning Angular
+- 😄 Pronouns: She/Her
 
 <!--
 **vnaazleen/vnaazleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
