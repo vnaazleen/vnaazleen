@@ -1,10 +1,11 @@
-# Hey there! I'm Vaseem Naazleen  👋 
+# Hey! I'm Vaseem Naazleen  👋 
 
-- 🎓 I’m currently a pre-final year student, studying **Computer Science** at Vasireddy Venkatadri Institute of technology 
+- 🎓 Currently a pre-final year student, studying **Computer Science** at Vasireddy Venkatadri Institute of technology 
 - 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under **Google** and **Talent sprint**
 - 💡  I'm passionate about problem-solving, exploring new technologies, and building cool projects
-- 💻 I usually code in *Python*, *Java* and *C++*
-- 🌱 I’m currently learning *Angular*
+- 💻 I usually code in *C++*, *Python* and *JavaScript*
+- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m currently working on my college mini-project *Alumni Connect*
 - 😄 Pronouns: She/Her
 
 <!--
@@ -22,14 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="220px" width="220px">  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=vnaazleen&show_icons=true" /></p>
 
 
 ## Find me
 
-[<img alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:shaikvaseemnaazleen@gmail.com)
-&nbsp; 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vaseem-naazleen/)
+* [Mail](mailto:shaikvaseemnaazleen@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/vaseem-naazleen/)
+* [GitHub](https://github.com/vnaazleen/)
 
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
