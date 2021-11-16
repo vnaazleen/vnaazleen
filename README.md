@@ -2,7 +2,7 @@
 
 - 🎓 Currently a pre-final year student, studying **Computer Science** at Vasireddy Venkatadri Institute of technology 
 - 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under **Google** and **Talent sprint**
-- 💡  I'm passionate about problem-solving, exploring new technologies, and building cool projects
+- 💡 I'm passionate about problem-solving, exploring new technologies, and building cool projects
 - 💻 I usually code in *C++*, *Python* and *JavaScript*
 - 🌱 I’m currently learning **MERN Stack**
 - 🔭 I’m currently working on my college mini-project *Alumni Connect*
@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 
 
 
-## Find me
+## 💬 Ping me on
 
 * [Mail](mailto:shaikvaseemnaazleen@gmail.com)
-* [Linkedin](https://www.linkedin.com/in/vaseem-naazleen/)
-* [GitHub](https://github.com/vnaazleen/)
+* [Linked in](https://www.linkedin.com/in/vaseem-naazleen/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
