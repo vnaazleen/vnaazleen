@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 
 * [Mail](mailto:shaikvaseemnaazleen@gmail.com)
 * [Linked in](https://www.linkedin.com/in/vaseem-naazleen/)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vnaazleen" alt="Profile Visitors" /> </p>
