@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 
 
-## 📫 How to reach me: 
+## 📫 How to reach me
 * [Mail](mailto:shaikvaseemnaazleen@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/vaseem-naazleen/)
