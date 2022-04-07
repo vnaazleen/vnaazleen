@@ -1,7 +1,7 @@
 # Hey! I'm Vaseem Naazleen  👋 
 
-- 🎓 Currently junior, studying **Computer Science and Engineering** at Vasireddy Venkatadri Institute of technology
-- 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under **Google** and **Talent sprint** and a **Upcoming SWE Intern** at **Google**
+- 🎓 Currently junior, studying **Computer Science and Engineering** at **Vasireddy Venkatadri Institute of technology**
+- 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under **Google**, **Talent sprint** and a **Upcoming SWE Intern** at **Google**
 - 💡 I'm passionate about problem-solving, exploring new technologies, and building projects
 - 💻 I usually code in *C++*, *Python* and *JavaScript*
 - 🌱 I’m currently learning Full Stack Web developement using **Flutter**
@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me: 
-
 * [Mail](mailto:shaikvaseemnaazleen@gmail.com)
-* [Linked in](https://www.linkedin.com/in/vaseem-naazleen/)
+* [Linkedin](https://www.linkedin.com/in/vaseem-naazleen/)
