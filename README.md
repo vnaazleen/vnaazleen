@@ -1,11 +1,11 @@
 # Hey! I'm Vaseem Naazleen  👋 
 
-- 🎓 Currently junior, studying **Computer Science and Engineering** at **Vasireddy Venkatadri Institute of technology**
+- 🎓 Currently senior, studying **Computer Science and Engineering** at **Vasireddy Venkatadri Institute of technology**
 - 👩‍💻 I'm a **Women Techmakers Engineering Fellow** under **Google**, **Talent sprint** and a **SWE Intern** at **Google**
 - 💡 I'm passionate about problem-solving, exploring new technologies, and building projects
-- 💻 I usually code in *C++*, *Python* and *JavaScript*
-- 🌱 I’m currently learning Full Stack Web developement using **Flutter**
-- 🔭 I’m currently working on my college mini-project *Alumni Connect*
+- 💻 I usually code in *C++* and *Java*
+- 🌱 I’m currently learning App developement using **Flutter**
+- 🔭 I’m currently exploring *Machine Learning* for my college major project
 - 😄 Pronouns: She/Her
 
 <!--
