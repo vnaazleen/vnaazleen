@@ -1,12 +1,13 @@
-# Hey! I'm Vaseem Naazleen  👋 
+# Hey! 👋 
 
-- 🎓 Currently senior, studying **Computer Science and Engineering** at **Vasireddy Venkatadri Institute of technology**
-- 👩‍💻 I'm a Former **Women Techmakers Engineering Fellow** under **Google**, **Talent sprint** and a **SWE Intern** at **Google**
-- 💡 I'm passionate about problem-solving, exploring new technologies, and building projects
-- 💻 I usually code in *C++* and *Java*
-- 🌱 I’m currently learning App developement using **Flutter**
-- 🔭 I’m currently exploring *Machine Learning* for my college minor project
-- 😄 Pronouns: She/Her
+I'm Vaseem Naazleen
+- 🎓 *Computer Science* Student graduated from *Vasireddy Venkatadri Institute of Technology.*
+- 👩‍💻 *Software Engineer* at *Google.*
+- 💡 Enjoy tackling *complex problems* and staying updated with the *latest technologies*.
+- 💻 Usually code in *C++* and *Java*.
+- 🌱 Currently expanding my knowledge in *System Design.*
+- 😄 Pronouns: *She/Her*
+- ⚡ Fun fact: I have a ritual of starting my week by reading or watching my *horoscope*!
 
 <!--
 **vnaazleen/vnaazleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
