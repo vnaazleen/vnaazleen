@@ -7,7 +7,7 @@ I'm Vaseem Naazleen
 - 💻 Usually code in *C++* and *Java*.
 - 🌱 Currently expanding my knowledge in *System Design.*
 - 😄 Pronouns: *She/Her*
-- ⚡ Fun fact: I have a ritual of starting my week by reading or watching my *horoscope*!
+- ⚡ Fun fact: I have a fun ritual of starting week by reading or watching my *horoscope*!
 
 <!--
 **vnaazleen/vnaazleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
