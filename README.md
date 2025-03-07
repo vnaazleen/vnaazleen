@@ -1,13 +1,13 @@
 # Hey! 👋 
 
 I'm Vaseem Naazleen
-- 🎓 *Computer Science* Student graduated from *Vasireddy Venkatadri Institute of Technology.*
+- 🎓 *Computer Science* Grad from *Vasireddy Venkatadri Institute of Technology.*
 - 👩‍💻 *Software Engineer* at *Google.*
 - 💡 Enjoy tackling *complex problems* and staying updated with the *latest technologies*.
 - 💻 Usually code in *C++* and *Java*.
 - 🌱 Currently expanding my knowledge in *System Design.*
 - 😄 Pronouns: *She/Her*
-- ⚡ Fun fact: I have a fun ritual of starting week by reading or watching my *horoscope*!
+- ⚡ Fun fact: I read and paint!
 
 <!--
 **vnaazleen/vnaazleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
