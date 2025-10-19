@@ -1,6 +1,6 @@
 # About Me
 
-Hey! I’m Vaseem Naazleen Shaik — a Software Engineer at Google with two years of experience in the Cloud (CBS) org, where I work on building efficient and effortless resource management systems for Google-scale infrastructure.
+Hey! I’m Naazleen — a Software Engineer at Google with two years of experience in the Cloud (CBS) org, where I work on building efficient and effortless resource management systems for Google-scale infrastructure.
 
 I work across the stack — from designing backend services to creating intuitive frontends — with a focus on building reliable, scalable, and impactful products. I’ve worked with technologies like Go, Java, TypeScript, and Python, and I’m currently deepening my understanding of system design to craft solutions that truly scale.
 
